@@ -1,0 +1,5 @@
+﻿@"MSH|^~\&|SendingApp|SendingFacility|ReceivingApp|ReceivingFacility|202312061200||ORM^O01|12345|P|2.3
+PID|1||123456^^^Hospital||Doe^John||19800101|M|||123 Main St^^Hometown^TX^12345||(123)456-7890
+PV1|1|I|ICU^^^Hospital|||1234^Smith^John|||SUR|||||123456789^Smith^John
+ORC|NW|ORDER123|||CM||||202312061230|||1234^Smith^John
+OBR|1|ORDER123||CBC^Complete Blood Count|||202312061230"
